@@ -5,3 +5,4 @@
 * git commit -m "commit name"
 * git status
 * git log
+* git remote add originURL
